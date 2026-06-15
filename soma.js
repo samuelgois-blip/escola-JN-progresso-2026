@@ -7,3 +7,7 @@ function soma(a, b) {
   
   console.log(resultado); // 8
   
+module.exports = soma;
+
+resultado = soma(5,10)
+const soma = require ()
